@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	pb "github.com/or0986113303/protocolbufferlearn"
+	pb "github.com/or0986113303/protocolbufferlearn/"
 )
 
 func main() {
