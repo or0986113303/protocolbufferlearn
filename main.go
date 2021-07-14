@@ -3,13 +3,13 @@ package main
 import (
 	"log"
 
-	pb "github.com/or0986113303/protocolbufferlearn/"
+	pb "github.com/or0986113303/protocolbufferlearn/student"
 )
 
 func main() {
 	s := &pb.Student{
 		Name:   "Peng Jie",
-		Age:    24,
+		Age:    "24",
 		Gender: "Male",
 		Number: 99,
 	}
